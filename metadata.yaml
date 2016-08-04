@@ -1,0 +1,33 @@
+_repo: Hira-Singh---when-India-came-to-fight-in-Flanders_4400
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mundy, Talbot
+    alias: Gribbon, William Lancaster
+    birthdate: 1879
+    deathdate: 1940
+    gutenberg_agent_id: '1481'
+    url: http://www.gutenberg.org/2009/agents/1481
+    wikipedia: http://en.wikipedia.org/wiki/Talbot_Mundy
+description: Along with the rest of his regiment, Sikh commander Ranjoor Singh is
+  captured in the wake of a harrowing battle that unfolds in Flanders at the outset
+  of World War I. The battlefield bravery of Singh and his men is equaled only by
+  the ingenuity of their elaborate escape plans. Will the homesick crew ever make
+  it back to India?
+gutenberg_bookshelf:
+- Adventure
+- World War I
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4400'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Hira Singh : when India came to fight in Flanders'
+url: http://www.gutenberg.org/ebooks/4400
