@@ -1,5 +1,8 @@
 _repo: Hira-Singh---when-India-came-to-fight-in-Flanders_4400
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mundy, Talbot
@@ -14,6 +17,8 @@ description: Along with the rest of his regiment, Sikh commander Ranjoor Singh i
   of World War I. The battlefield bravery of Singh and his men is equaled only by
   the ingenuity of their elaborate escape plans. Will the homesick crew ever make
   it back to India?
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4400#Hira-Singh---when-India-came-to-fight-in-Flanders
 gutenberg_bookshelf:
 - Adventure
 - World War I
